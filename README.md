@@ -7,7 +7,7 @@
  
  *our goal is: to beeing helpful to gnu philosophy,research how to use C++ better,and developing a tool for Debian.
 
- ## why open source?
+ ## why free software?
 
   *because, in our opinion, software should be free and accessible to everyone.
 
