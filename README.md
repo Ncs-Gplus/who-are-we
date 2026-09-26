@@ -1,7 +1,7 @@
 # who-are-we
 ## what is Ncs?
 
- *Ncs means "Not closed source"
+ *To understand Ncs, we look back to the 1980s when software started getting locked away. We stand right in the middle of open-source philosophies. We aren't against money; it's a necessary emulator for trade, and developers need to make a living. However, we are strictly against giant corporations closing source code, monopolizing technology, and weaponizing software for digital control. Ncs is neither a utopian dream nor a corporate tool—it’s just keeping software open and realistic(ncs means not closed source)
 
 ## what is the goal of the organization?
  
