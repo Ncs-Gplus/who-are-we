@@ -5,7 +5,7 @@
 
 ## what is the goal of the organization?
  
- *our goal is: to beeing helpful to gnu philosophy,research how to use C++ better,and developing a tool for Debian.
+ *our goal is: to beeing helpful to gnu philosophy,research how to use C++ better,and developing c++ libs
 
  ## why free software?
 
